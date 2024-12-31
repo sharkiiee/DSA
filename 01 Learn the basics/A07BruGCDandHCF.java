@@ -8,8 +8,6 @@ import java.util.Scanner;
 // so the gcf of the 9 and 12 is : 3
 // The common values are the gcf
 
-
-
 public class A07BruGCDandHCF {
 
     static void findGCD(int value1, int value2)
