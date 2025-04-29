@@ -12,6 +12,29 @@ public class StringConcat {
                 s1++;
             } catch (Exception e) {
                 break;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
             }
         }
         result[s1] = ' ';
