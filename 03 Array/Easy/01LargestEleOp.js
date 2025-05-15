@@ -2,6 +2,8 @@
 
 // Make a pointer of largest and use it to sompare with array values
 
+// Time complexity : O(N)
+
 let arr = [1,4,3,6,7,2];
 
 let largest = 0;
