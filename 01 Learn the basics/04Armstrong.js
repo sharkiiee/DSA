@@ -1,6 +1,8 @@
 // Program for the armstrong number's.
 
-const value = 153;
+// First count the values
+
+let value = 153;
 let save = value;
 
 let valueLength = 0
